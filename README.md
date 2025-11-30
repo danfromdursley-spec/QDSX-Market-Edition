@@ -1,4 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17771649.svg)](https://doi.org/10.5281/zenodo.17771649)
 
+# QDSX Market Edition — Physics-Inspired Data Compression
 # QDSX Market Edition — Physics-Inspired Data Compression
 
 This repo contains the **QDSX Market Edition v1** pack:
