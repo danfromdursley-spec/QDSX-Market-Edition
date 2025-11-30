@@ -32,3 +32,10 @@ python qdsx_engine.py mydata.bin
 
 # decompress
 python qdsx_engine.py -d mydata.bin.qdsx
+
+
+## Citation
+
+If you use QDSX in research or a project, please cite:
+
+> Williams, D. (2025). *QDSX Market Edition* (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.17771649
