@@ -33,3 +33,9 @@ python qdsx_engine.py -d mydata.bin.qdsx
 Commercial use & pilots
 If you want help integrating QDSX into a production system, or you’d like a commercial license with support and SLAs, contact:
 Email: danfromdursley@gmail.com
+
+## QDSX Market Edition – Ready-to-Run Pack
+
+If you’d like a ready-to-use version of QDSX (with the engine, demo files and a short README) you can get it here:
+
+👉 [QDSX Market Edition on Gumroad](https://dursleydan.gumroad.com/l/apjxgw)
