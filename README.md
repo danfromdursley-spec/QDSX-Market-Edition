@@ -14,3 +14,19 @@ logs, JSON, CSV and other structured data.
 If you’d like me to run QDSX on one of your datasets as a **small paid
 pilot** (with a short written report of compression ratios and behaviour),
 you can contact me via GitHub or email.
+
+
+## Quick start
+
+```bash
+git clone https://github.com/danfromdursley-spec/QDSX-Market-Edition.git
+cd QDSX-Market-Edition
+
+# run synthetic benchmark
+python qdsx_engine.py
+
+# compress a file
+python qdsx_engine.py mydata.bin
+
+# decompress
+python qdsx_engine.py -d mydata.bin.qdsx
