@@ -29,3 +29,7 @@ python qdsx_engine.py mydata.bin
 
 # decompress
 python qdsx_engine.py -d mydata.bin.qdsx
+
+Commercial use & pilots
+If you want help integrating QDSX into a production system, or you’d like a commercial license with support and SLAs, contact:
+Email: danfromdursley@gmail.com
