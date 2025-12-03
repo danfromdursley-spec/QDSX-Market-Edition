@@ -1,3 +1,18 @@
+
+
+# Quantum Dark Substrate (QDS)
+
+QDS is a **finite, GR-compatible stochastic kernel** that appears to fit both
+local **H₀ variance** and **galaxy rotation curves** *without dark-matter particles*,
+using only **1–2 extra parameters**.
+
+📄 Preprint (Zenodo): **10.5281/zenodo.17769921**  
+🧮 This repo contains minimal, Android-safe Python scripts that reproduce
+the key variance and rotation-curve results.
+
+> If you know a no-go theorem or standard argument that kills this kind of
+> kernel, **please tell me** — I’d rather be corrected than confused. 🙂
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17771649.svg)](https://doi.org/10.5281/zenodo.17771649)
 
 # QDSX Market Edition — Physics-Inspired Data Compression
@@ -8,6 +23,8 @@ This repo contains the **QDSX Market Edition v1** pack:
   - `qdsx_engine.py` (main compression engine)
   - `demo.txt` / `demo.txt.qdsx` (round-trip demo)
   - `QDSX_logs/` and README inside
+
+
 
 QDSX is a small, single-file, **lossless compression engine** designed for logs, JSON, CSV and other structured data.
 
